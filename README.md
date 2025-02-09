@@ -56,7 +56,7 @@ PORT=10000
 ```sh
 node server.js
 ```
-The backend will run on `http://localhost:10000/`
+The backend will run on `http://localhost:8080/`
 
 ## 🚀 Deployment
 ### **Deploy on Render/Vercel**
